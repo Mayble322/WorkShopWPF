@@ -1,0 +1,15 @@
+Wood Baguettes Size:78x70x2400mm;Wood;7;Varnish;3
+Wood Baguettes Size:60x69x2400mm;Wood;5;Varnish;3
+Wood Baguettes Size:60x60x2000mm;Wood;4;Varnish;2
+Wood Baguettes Size:40x40x2000mm;Wood;3;Varnish;2
+Wood Baguettes Size:40x37x1800mm;Wood;3;Varnish;1
+Metal Baguettes Size:78x70x2400mm;Metal profile;7;Varnish;3
+Metal Baguettes Size:60x69x2400mm;Metal profile;6;Varnish;2
+Metal Baguettes Size:60x60x2000mm;Metal profile;5;Varnish;2
+Metal Baguettes Size:40x40x2000mm;Metal profile;3;Varnish;2
+Metal Baguettes Size:40x37x1800mm;Metal profile;2;Varnish;1
+Plastic Baguettes Size:78x70x2400mm;Plastic profile;6;Paint;3
+Plastic Baguettes Size:60x69x2400mm;Plastic profile;5;Paint;3
+Plastic Baguettes Size:60x60x2000mm;Plastic profile;4;Paint;2
+Plastic Baguettes Size:40x40x2000mm;Plastic profile;3;Paint;2
+Plastic Baguettes Size:40x37x1800mm;Plastic profile;2;Paint;1
